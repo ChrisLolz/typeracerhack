@@ -5,10 +5,10 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 
-print("Welcome to the type racer hack made by Chris, start a race and watch the magic happen.\nReminder: Don't go in and out of races or else you might break the program")
+print("Welcome to the type racer hack made by Chris, start a race and watch the magic happen.\nReminder: Don't go in and out of races or else you might break the program and keep this window open")
 
-path = os.path.join("racehack", "chromedriver.exe")
-driver = webdriver.Chrome(path)
+path = os.getcwd()
+driver = webdriver.Chrome(path+"\chromedriver.exe")
 driver.get("https://play.typeracer.com")
 driver.maximize_window()
 
