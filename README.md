@@ -2,7 +2,7 @@
 Program that allows you to cheat in typeracer without even touching your keyboard.
 
 # How to download it
-Download from the releases section and take out the racehack folder, or just download the racehack folder only from github
+Download the source code file from the releases section and extract the racehack folder
 
 # Setup
 On cmd type:
