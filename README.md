@@ -5,7 +5,7 @@ Program that allows you to cheat in typeracer without even touching your keyboar
 Make sure you download from the releases section or just download the racehack folder only
 
 # Setup
-on cmd type:
+On cmd type:
 ```
 pip install selenium
 ```
