@@ -64,3 +64,5 @@ while True:
                 print("Please type an integer")
     except:
         time.sleep(1)
+        
+input("press ENTER to exit")
