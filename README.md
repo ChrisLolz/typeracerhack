@@ -6,5 +6,7 @@ Make sure you download from the releases section or just download the racehack f
 
 #Setup
 on cmd type:
+
 ```pip install selenium```
+
 Once you have done that, just run the .py file and it's ready to go!
