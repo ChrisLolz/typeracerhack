@@ -7,7 +7,6 @@ import os
 
 print("Welcome to the type racer hack made by Chris, start a race and watch the magic happen.\nReminder: Don't go in and out of races or else you might break the program")
 
-#hello = input("Paste the file location of the chromedriver.exe below: (I recommend you put it in the documents folder)\n")
 path = os.path.join("racehack", "chromedriver.exe")
 driver = webdriver.Chrome(path)
 driver.get("https://play.typeracer.com")
